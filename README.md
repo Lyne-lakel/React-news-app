@@ -40,5 +40,5 @@ This project was developed as part of a university web development course assign
 
 ### 📦 Clone the Repo
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Lyne-lakel/React-news-app.git
+cd React-news-app
