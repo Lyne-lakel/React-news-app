@@ -27,10 +27,12 @@ This project was developed as part of a university web development course assign
 ---
 
 ##  Tech Stack
-- React(Create React App)
+- React js
 - React Router DOM 
-- CSS
-- Context API g
+- HTML & CSS
+- News API
+- JavaScript (ES6+)
+  
 
 ---
 
